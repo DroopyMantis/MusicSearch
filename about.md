@@ -1,0 +1,2 @@
+My app uses the itunes API to display lists of songs and artists based on a search input. You can click on any song to see a more detailed view and another list of anything else in the album. At any point the user can type in another search
+or go back to previous searches. The user can also click a help button to see how to use the app. The API used is perform searches with the Itunes data and the documentation can be found here. https://performance-partners.apple.com/search-api
